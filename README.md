@@ -8,7 +8,7 @@ For a builder, the key insight is that the majority of machine learning problems
 
 ```mermaid
 graph TD
-    A[Start: 8 Years SE Experience] --> B[Phase 1: Accelerated Foundational Tooling<br/>80% SE Focus]
+    A[Start: SE Experience] --> B[Phase 1: Accelerated Foundational Tooling<br/>80% SE Focus]
     B --> B1[Step 1: SE Environment & Data Prep<br/>Python, Jupyter, NumPy, Pandas]
     B --> B2[Step 2: Core ML Principles<br/>scikit-learn, Classification, Regression]
     B --> B3[Step 3: Milestone Project 1<br/>Streamlit Web Dashboard]
@@ -31,11 +31,7 @@ graph TD
     E --> E4[Mathematics 20% ML<br/>Only when stuck]
     E --> E5[Reinforcement<br/>Create Blog]
     
-    style A fill:#e1f5ff
-    style B fill:#fff4e1
-    style C fill:#ffe1f5
-    style D fill:#e1ffe1
-    style E fill:#f5e1ff
+    
 ```
 
 ## Detailed Learning Plan
