@@ -1,6 +1,6 @@
 # 80/20 Agentic Developer Learning Roadmap
 
-This plan is designed to leverage your ** Here is the second prompt.Here is the second prompt.Finally, the fourth prompt.years of experience in software development** (Software 1.0) and prioritize the **80% Software Engineering (SE)** focus needed to build and deploy robust, agentic applications (Software 2.0), while dedicating the remaining **20% to core Machine Learning (ML)** principles.
+This plan is designed to leverage your **years of experience in software development** (Software 1.0) and prioritize the **80% Software Engineering (SE)** focus needed to build and deploy robust, agentic applications (Software 2.0), while dedicating the remaining **20% to core Machine Learning (ML)** principles.
 
 For a builder, the key insight is that the majority of machine learning problems are actually **infrastructure problems**, merging software engineering with machine learning in what is called **ML Ops**. Your focus will be on accelerating through foundations to reach deep learning and production deployment (ML Ops) quickly.
 
